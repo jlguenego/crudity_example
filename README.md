@@ -24,7 +24,7 @@ So you can CRUD an article.
 
 ## Crudity documentation
 
-To know more about the crudity module, see [https://github.com/jlguenego/crudity].
+To know more about the crudity module, see https://github.com/jlguenego/crudity.
 
 ## Author
 
