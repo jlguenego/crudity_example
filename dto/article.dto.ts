@@ -5,7 +5,7 @@ import { Provider } from "./provider.dto";
 
 export class Article {
   @Expose()
-  id?: string;
+  id: string;
 
   @Expose()
   @IsDefined()
